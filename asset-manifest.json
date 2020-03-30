@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/freshwindgardens/static/css/main.234a5111.chunk.css",
+    "main.js": "/freshwindgardens/static/js/main.b8b5dfd1.chunk.js",
+    "main.js.map": "/freshwindgardens/static/js/main.b8b5dfd1.chunk.js.map",
+    "runtime-main.js": "/freshwindgardens/static/js/runtime-main.f53451f8.js",
+    "runtime-main.js.map": "/freshwindgardens/static/js/runtime-main.f53451f8.js.map",
+    "static/css/2.23306f5f.chunk.css": "/freshwindgardens/static/css/2.23306f5f.chunk.css",
+    "static/js/2.84898e16.chunk.js": "/freshwindgardens/static/js/2.84898e16.chunk.js",
+    "static/js/2.84898e16.chunk.js.map": "/freshwindgardens/static/js/2.84898e16.chunk.js.map",
+    "index.html": "/freshwindgardens/index.html",
+    "precache-manifest.bdfa1dc9216d7e6e76c6c92b072c158e.js": "/freshwindgardens/precache-manifest.bdfa1dc9216d7e6e76c6c92b072c158e.js",
+    "service-worker.js": "/freshwindgardens/service-worker.js",
+    "static/css/2.23306f5f.chunk.css.map": "/freshwindgardens/static/css/2.23306f5f.chunk.css.map",
+    "static/css/main.234a5111.chunk.css.map": "/freshwindgardens/static/css/main.234a5111.chunk.css.map",
+    "static/js/2.84898e16.chunk.js.LICENSE.txt": "/freshwindgardens/static/js/2.84898e16.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f53451f8.js",
+    "static/css/2.23306f5f.chunk.css",
+    "static/js/2.84898e16.chunk.js",
+    "static/css/main.234a5111.chunk.css",
+    "static/js/main.b8b5dfd1.chunk.js"
+  ]
+}
